@@ -24,7 +24,7 @@ namespace Task2
 
         public Title(string title)
         { 
-            this._title = title;
+            _title = title;
         }
 
         public Title()
